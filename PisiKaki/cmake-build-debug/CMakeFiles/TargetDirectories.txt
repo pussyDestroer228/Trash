@@ -1,0 +1,3 @@
+D:/PisiKaki/cmake-build-debug/CMakeFiles/PisiKaki.dir
+D:/PisiKaki/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/PisiKaki/cmake-build-debug/CMakeFiles/rebuild_cache.dir

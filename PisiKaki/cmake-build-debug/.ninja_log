@@ -1,0 +1,15 @@
+# ninja log v5
+0	794	6654126204383228	CMakeFiles/PisiKaki.dir/main.cpp.obj	f778def3ed2e077
+5	1375	6654123882780370	CMakeFiles/PisiKaki.dir/Lol.cpp.obj	7aafcee7861ea6dd
+0	1390	6654123882780370	CMakeFiles/PisiKaki.dir/Smech.cpp.obj	94e99e6cf54fd2ca
+9	1371	6654123882790366	CMakeFiles/PisiKaki.dir/HelloThere.cpp.obj	14e816d7eb898a8f
+796	2453	6654126216529725	PisiKaki.exe	93e81100645e74ba
+0	143	6654434173774691	build.ninja	3d8a2e2cb2716f62
+22	1239	6654437407475699	CMakeFiles/PisiKaki.dir/main.cpp.obj	f778def3ed2e077
+41	2570	6654437421111353	CMakeFiles/PisiKaki.dir/Suka.cpp.obj	af5797314a3dc045
+7	2573	6654437420991382	CMakeFiles/PisiKaki.dir/Smech.cpp.obj	94e99e6cf54fd2ca
+29	2576	6654437421111353	CMakeFiles/PisiKaki.dir/Ball.cpp.obj	5b23fbf05c1c88d1
+1240	2612	6654437421561221	CMakeFiles/PisiKaki.dir/Jopa.cpp.obj	e1c9e99f41e8d7b4
+25	2631	6654437421731153	CMakeFiles/PisiKaki.dir/Steel.cpp.obj	95dc0d1bcd65f62e
+35	2837	6654437423680955	CMakeFiles/PisiKaki.dir/Run.cpp.obj	5dcc53d7c4abd7c3
+2841	9855	6654437483865058	PisiKaki.exe	b9c4c1a6582d607e
